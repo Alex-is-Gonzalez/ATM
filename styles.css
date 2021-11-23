@@ -1,0 +1,25 @@
+select{
+  width: 250px;
+  font-size: large;
+  background-color: rgb(255, 253, 253);
+  display: flex;
+  border-radius: 25px;
+}
+.des {
+  font-size: larger;
+}
+.num{
+  width: 250px;
+  height: 20px;
+  background-color: rgb(255, 253, 253);
+  border-radius: 25px;
+}
+.submit {
+  background-color: rgb(255, 253, 253) ;
+  border-radius: 25px;
+  font-size: large;
+
+}
+body {
+  background-color: cadetblue;
+}
